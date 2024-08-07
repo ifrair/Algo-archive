@@ -1,10 +1,12 @@
+// Segment tree template.
+// Range queries add, set, get_sum, get_max, get_min
+// uses 0 indexation
+
 #pragma once
 
 #include <iostream>
 #include <numeric>
 
-
-// uses 0 indexation
 template<class T>
 class SegmentTree {
     struct MaxInfo {
