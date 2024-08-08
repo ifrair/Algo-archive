@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-    std::cout << "All u need";
+    std::cout << "All u need" << std::endl;
 }
