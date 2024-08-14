@@ -50,3 +50,5 @@ int main() {
         cout << x << ' ';
     }
 }
+
+// https://acmp.ru/asp/do/index.asp?main=task&id_course=2&id_section=32&id_topic=56&id_problem=1046
